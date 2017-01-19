@@ -1,0 +1,38 @@
+#title{
+    /*color:#6495ED;*/
+    font-weight: bold;
+    background-color: #ffffff;
+    margin:5%;
+    margin-right: 65%;
+    text-align: center;
+    font-size: 3em;
+}
+
+body{
+    /*color:	#6495ED;*/
+    background-image: url("images/NOLA.jpg");
+}
+.text{
+    background-color: #ffffff;
+    margin:5%;
+}
+
+img{
+    display:block;
+    padding-top:5em;
+    padding-bottom:5em;
+    margin:auto;
+    height:75%;
+    width:75%;
+}
+#nola{
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color:#6495ED;
+}
+a:visited{
+    color:pink;
+}
